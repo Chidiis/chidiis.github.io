@@ -1,8 +1,8 @@
 
 # Data Analyst
 
-
 ###EDUCATION
+
 - Google Data Analytics Certificate, Coursera 2023
 - B.ENG. Chemical Engineering, Afe Babalola University Ado-Ekiti, Ekiti State, Nigeria, 2016 – 2021
    - CGPA: 4.34 / 5.0 - Second Class Upper
